@@ -1,6 +1,6 @@
 # 2023-java-study
 
-- 교재 : JAVA의 정석 1/2편 (남궁 성)
+- 교재 : JAVA의 정석 1/2편
 - 보충 강의 : JAVA의 정석 유튜브 강의 (https://www.youtube.com/watch?v=CXuA31XcBZ0&list=PLW2UjW795-f5JPTsYHGAawAck9cQRw5TD)
 
 <br>
